@@ -1,0 +1,1 @@
+nested fixture text containing the word discount.
